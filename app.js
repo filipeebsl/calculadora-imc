@@ -1,0 +1,1 @@
+console.log("Rodando o app Calculadora de IMC")
